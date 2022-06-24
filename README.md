@@ -1,4 +1,4 @@
-### Hey there, I’m njucjc. 👋
+### Hey there, I’m Jim Chen. 👋
 
 - 🔭 I’m currently working on k8s & container releated work in Alibaba Cloud.
 - 📫 How to reach me:
