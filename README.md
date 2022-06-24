@@ -1,5 +1,10 @@
 ### Hey there, I’m njucjc. 👋
 
+- 🔭 I’m currently working on k8s & container releated work in Alibaba Cloud.
+- 📫 How to reach me:
+  - DingTalk: jingyi95
+  - email: njucjc@gmail.com
+
 <!--
 **njucjc/njucjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![njucjc's GitHub stats](https://github-readme-stats.vercel.app/api?username=njucjc&show_icons=true&theme=vue)
@@ -14,8 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Wakatime Langs](https://github-readme-stats.vercel.app/api/wakatime?username=njucjc&theme=vue&langs_count=5&custom_title=Watatime%20Stats%20Weekly)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njucjc&layout=compact&theme=tokyonight)
 -->
 ![snake gif](https://github.com/njucjc/njucjc/blob/output/github-contribution-grid-snake.svg)
