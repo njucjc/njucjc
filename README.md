@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on k8s & container releated work in Alibaba Cloud.
 - 📫 How to reach me:
   - DingTalk: jingyi95
-  - email: njucjc@gmail.com
+  - Email: njucjc@gmail.com
 
 <!--
 **njucjc/njucjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
